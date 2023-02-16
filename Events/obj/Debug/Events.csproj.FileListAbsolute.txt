@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CSharpUygulamalar\Events\bin\Debug\Events.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\Events\bin\Debug\Events.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Events\bin\Debug\Events.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Events\obj\Debug\Events.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Events\obj\Debug\Events.pdb
